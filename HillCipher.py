@@ -37,7 +37,7 @@ def process(text, key):
     return result
  
  
-key = [[3, 3], [2, 5]]
+key = [[5, 3], [17, 9]]
 text = input("Enter message: ")
  
 cipher = process(text, key)
